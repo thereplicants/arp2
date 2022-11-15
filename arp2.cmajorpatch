@@ -1,0 +1,11 @@
+{
+  "CmajorVersion": 1,
+  "ID": "com.your_name.your_patch_ID",
+  "version": "1.0",
+  "name": "arp2",
+  "description": "arp2",
+  "category": "generator",
+  "manufacturer": "Your Company Goes Here",
+  "isInstrument": true,
+  "source": "arp2.cmajor"
+}
