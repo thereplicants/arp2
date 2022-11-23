@@ -1,11 +1,11 @@
 {
   "CmajorVersion": 1,
-  "ID": "com.your_name.your_patch_ID",
+  "ID": "com.thereplicants.arp2",
   "version": "1.0",
   "name": "arp2",
-  "description": "arp2",
-  "category": "generator",
-  "manufacturer": "Your Company Goes Here",
-  "isInstrument": true,
+  "description": "An arpeggiator",
+  "category": "midi",
+  "manufacturer": "The Replicants",
+  "isInstrument": false,
   "source": "arp2.cmajor"
 }
